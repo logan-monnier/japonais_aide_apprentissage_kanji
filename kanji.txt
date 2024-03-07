@@ -1,0 +1,34 @@
+水|みず|すい|Eau
+火|ひ|か|Feu
+木|き/こ|ぼく/もく|Arbre/Bois
+石|いし|せき/さく/こく|Pierre
+金|かね/かな|きん/こん|Or/Argent
+日|ひ/び|にち/じつ|Jour/Soleil
+月|つき|げつ/がつ|Mois/Lune
+年|とし|ねん|Année
+早|はや|そう/さ|Tôt/Vite
+夕|ゆう|せき|Soirée
+一|ひと|いち/いつ|1
+二|ふた|に|2
+三|み|さん|3
+四|よ/よん|し|4
+五|いとう|ご|5
+六|む|ろく|6
+七|なな|しち|7
+八|や|はち|8
+九|ここの|く/きゅう|9
+十|とう|じゅう/じ|10
+上|うえ/かみ|じょう/しょう|Au dessus/En haut
+下|した/しも|か/げ|En-dessous/En-bas
+左|ひだり|さ|A gauche
+右|みぎ|う/ゆう|A droite
+中|なか/うち|ちゅう|A l'intérieur/Au milieu
+車|くるま|しゃ|Véhicule/Voiture
+虫|むし|ちゅう/き|Insecte/Vers de terre
+百|None|ひゃく/びゃく|100
+千|ち|せん|1000
+本|もと|ほん|Livre/Vraie/Principale
+文|ふみ/あや|ぶん/もん|Texte/Ecriture
+字|あざ|じ|Lettre/Partie du village
+力|ちから|りき/りょく|Puissance/Force
+気|いき|き/け|Esprit/Air
